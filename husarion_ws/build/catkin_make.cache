@@ -1,0 +1,2 @@
+juan_yu:move_sensor:panther_msgs
+-DCATKIN_DEVEL_PREFIX=/home/husarion/husarion_ws/devel -DCMAKE_INSTALL_PREFIX=/home/husarion/husarion_ws/install -G Unix Makefiles

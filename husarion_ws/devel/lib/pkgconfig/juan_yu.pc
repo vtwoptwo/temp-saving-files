@@ -1,0 +1,8 @@
+prefix=/home/husarion/husarion_ws/devel
+
+Name: juan_yu
+Description: Description of juan_yu
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/husarion/husarion_ws/install
+
+Name: mc_clane
+Description: Description of mc_clane
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

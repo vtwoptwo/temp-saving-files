@@ -1,0 +1,16 @@
+(cl:in-package panther_msgs-msg)
+(cl:export '(AMPS_LIMIT_ACTIVE-VAL
+          AMPS_LIMIT_ACTIVE
+          MOTOR_STALL-VAL
+          MOTOR_STALL
+          LOOP_ERROR-VAL
+          LOOP_ERROR
+          SAFETY_STOP_ACTIVE-VAL
+          SAFETY_STOP_ACTIVE
+          FORWARD_LIMIT_TRIGGERED-VAL
+          FORWARD_LIMIT_TRIGGERED
+          REVERSE_LIMIT_TRIGGERED-VAL
+          REVERSE_LIMIT_TRIGGERED
+          AMPS_TRIGGER_ACTIVATED-VAL
+          AMPS_TRIGGER_ACTIVATED
+))
